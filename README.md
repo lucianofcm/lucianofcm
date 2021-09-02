@@ -1,6 +1,6 @@
 ### 👋 Olá Mundo !!!!  👋
 
-Este é meu respositório particular para guardar os códigos dos projetos que desenvolvo principalamente para estudo de tecnologias que utilizam a linguagem JAVA.
+Este é meu respositório particular para guardar os códigos dos projetos que desenvolvo pricipalmente para estudo de tecnologias que utilizam a linguagem JAVA.
 <!--
 **lucianofcm/lucianofcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
